@@ -1,12 +1,14 @@
 <?xml version="1.0"?>
 <sharpUpdate>
-	<update appID="WowLauncher"> 
-		<version>2.0.0.0</version> 
-		<url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
-		<fileName>WowLauncher.exe</fileName> 
-		<md5>d6a3d1fc0bc191b678fde172c3250d0e</md5>
-        <description>Update: 06/19/2014:
-        1. Added notification message when the current version is already the latest.</description> 
-        <launchArgs></launchArgs> 
-    </update> 
+  <update appID="WowLauncher">
+    <version>1.1</version>
+    <url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
+    <fileName>WowLauncher.exe</fileName>
+    <md5>d6a3d1fc0bc191b678fde172c3250d0e</md5>
+    <description>
+      Update: 10/18/2017:
+      1. Testing the updater code. Made the .exe intentionally much bigger size to monitor the download.
+    </description>
+    <launchArgs></launchArgs>
+  </update>
 </sharpUpdate>
