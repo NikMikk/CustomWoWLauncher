@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sharpUpdate>
-	<update appId="WoWLauncher">
+	<update appID="WoWLauncher">
 		<version>3.0.0.0</version> 
 		<url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
 		<fileName>WowLauncher.exe</fileName> 
