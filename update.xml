@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sharpUpdate>
-	<update appID="Custom WoW Launcher">
+	<update appId="Custom WoW Launcher">
 		<version>2.0</version>
 		<url>https://github.com/NikMikk/CustomWoWLauncher/blob/master/WowLauncher.exe?raw=true</url>
 		<fileName>TestApp2.exe</fileName>
