@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <sharpUpdate>
   <update appID="WowLauncher">
-    <version>1.1</version>
+    <version>1.1.0.0</version>
     <url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
     <fileName>WowLauncher.exe</fileName>
     <md5>d6a3d1fc0bc191b678fde172c3250d0e</md5>
