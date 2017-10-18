@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <sharpUpdate>
-	<update appID="WoWLauncher">
-		<version>3.0.0.0</version> 
+	<update appID="WowLauncher"> 
+		<version>2.0.0.0</version> 
 		<url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
 		<fileName>WowLauncher.exe</fileName> 
-		<md5>D6A3D1FC0BC191B678FDE172C3250D0E</md5>
+		<md5>d6a3d1fc0bc191b678fde172c3250d0e</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
