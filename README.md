@@ -1,2 +1,2 @@
-# CustomWoWLauncher
-My own WoW launcher created to simplify the user's login process.
+# Custom WoW Launcher
+Created to simplify the user's login process.
