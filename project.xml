@@ -5,8 +5,7 @@
     <url>https://raw.githubusercontent.com/NikMikk/CustomWoWLauncher/master/Program/WowLauncher.exe</url>
     <fileName>WowLauncher.exe</fileName>
     <md5>d6a3d1fc0bc191b678fde172c3250d0e</md5>
-    <description>Testing the updater code. Made the .exe intentionally much bigger size to monitor the download.
-    </description>
+    <pathNotes>Bugtesting the updater</pathNotes>
     <launchArgs></launchArgs>
   </update>
 </sharpUpdate>
